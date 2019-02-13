@@ -65,5 +65,10 @@ On utilise node-red pour pouvor piloter notre Led RGB à distance
 ![Nodered](nodered1.png)
 
 
+## Schéma Fritzing
+
+![fritzing](frit.png)
+
+
 
 
